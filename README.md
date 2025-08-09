@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # crypto-autotrade-bot
 암호화폐 자동매매 프로그램 
-=======
 # Upbit Trading Bot
 
 업비트 실시간 데이터 수신 및 자동 매매를 위한 파이썬 봇 프로젝트입니다.
@@ -64,4 +62,3 @@ upbit_trading_bot/
 
 ---
 문의 및 개선 제안은 이슈로 남겨주세요.
->>>>>>> 741c542 (feat: add candle RSI strategy and CLI run support)
